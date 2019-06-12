@@ -1,0 +1,108 @@
+.header{
+ 
+  padding:3% 6%;
+}
+
+.align-padd{
+  padding: 7% 0 !important;
+}
+
+.sec-marg{
+  margin: 0 6% ;
+}
+
+.sec-text{
+  margin-top: 9%;
+}
+.logo{
+  height:26px;
+}
+.logo-col{
+  flex: 0.4;
+}
+
+.navbar-item img{
+      max-height: 2.75rem!important;
+
+}
+
+
+.menu div{
+  
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 300;
+  text-decoration: none;
+  color: #000000;
+  line-height: 52px
+}
+
+
+.appim div{
+    text-align:center;
+    margin-bottom:40px !important;
+    
+}
+.appim div img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 13% important;
+height:auto;
+
+}
+
+.logosimg{
+  height: -webkit-fill-available;
+}
+
+.text-bottom{
+  padding-bottom: 2%;
+}
+
+
+.sec4text div {
+  
+  flex-direction: column;
+  align-items: center;
+ 
+  background-size: cover;
+  
+}
+
+.sec4text div h1,h2{
+   
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+  }
+    
+
+  .text{
+    text-align:center;
+    padding-bottom: 29px;
+  }
+
+
+  .img-back{
+    
+      width: 100%;
+      height: auto;
+      line-height: 300px;
+      background-size: cover;
+      background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./images/staking.jpg');
+      text-align: center;
+    
+  }
+
+  .back-text h1,h2{
+    color:white
+  }
+
+  .back-text{
+    padding: 0% 28%;
+  } 
+
+  .img-webkit{
+    width: -webkit-fill-available;
+  }
